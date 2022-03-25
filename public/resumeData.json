@@ -4,7 +4,7 @@
     "occupation": "Student at EPITA",
     "description": "I eat, sleep and breathe Code",
     "image": "profilepic.png",
-    "bio": "Hi there! I am Alexandre! I've been coding for over 100 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe.",
+    "bio": "Elève à l'EPITA, 21 ans, passionné d'informatique et ayant pour but de devenir Growth Engineer, je vous accompagnerai dans la réalisation de vos OKR en sachant innover et construire des stratégies AARRR dont la réussite sera basée sur la récolte et l'interprétation de data.",
     "contactmessage": "Want to get in touch with me ?",
     "email": "alexandre.devaux@epita.fr",
     "phone": "+33 646237305",
@@ -36,7 +36,7 @@
         "school": "EPITA - Paris, France",
         "degree": "IT Engineer, Computer Science",
         "graduated": "July 2023",
-        "description": "Graduated with First Class Honours"
+        "description": "One of the best IT Engineering schools"
       }
     ],
     "work": [
@@ -49,44 +49,56 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "80%"
+        "name": "Product Management",
+        "level": "60%"
       },
       {
-        "name": "Redux",
+        "name": "Marketing",
         "level": "65%"
       },
       {
-        "name": "NextJS",
-        "level": "70%"
+        "name": "Automation",
+        "level": "90%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "SQL",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "Git",
-        "level": "90%"
+        "level": "95%"
       },
       {
-        "name": "JavaScript",
-        "level": "85%"
-      },
-      {
-        "name": "C#",
+        "name": "Full Stack",
         "level": "80%"
       },
       {
-        "name": "C++",
+        "name": "Logic",
+        "level": "100%"
+      },
+      {
+        "name": "UX / UI",
         "level": "75%"
       },
       {
-        "name": "Web Development",
-        "level": "80%"
+        "name": "PhantomBuster",
+        "level": "70%"
+      },
+      {
+        "name": "Zapier",
+        "level": "60%"
+      },
+      {
+        "name": "Integromat",
+        "level": "60%"
+      },
+      {
+        "name": "Google / Facebook / Instagram / ... Ads",
+        "level": "60%"
       }
     ]
   },
