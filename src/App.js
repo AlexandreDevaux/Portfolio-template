@@ -5,10 +5,14 @@ import Footer from "./Components/Footer";
 import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
+import ReactGA from "react-ga";
 
 import "./App.css";
 
 const App = () => {
+  ReactGA.initialize('UA-000000-01');
+  console.log('initialized')
+  ReactGA.pageview(window.location.pathname);
   const [resumeData, setResumeData] = useState({});
 
   useEffect(() => {
