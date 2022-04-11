@@ -10,7 +10,7 @@ import ReactGA from "react-ga";
 import "./App.css";
 
 const App = () => {
-  ReactGA.initialize('UA-000000-01');
+  ReactGA.initialize('UA-225528889-1');
   console.log('initialized')
   ReactGA.pageview(window.location.pathname);
   const [resumeData, setResumeData] = useState({});
