@@ -8,6 +8,7 @@ import Contact from "./Components/Contact";
 import ReactGA from "react-ga";
 
 import "./App.css";
+import axios from "axios";
 
 const App = () => {
   ReactGA.initialize('UA-225528889-1');
